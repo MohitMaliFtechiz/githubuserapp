@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github Users App</string>
+    <string name="details">More Info</string>
+    <string name="username">username</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+</resources>
